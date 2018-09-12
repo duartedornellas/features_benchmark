@@ -5,4 +5,3 @@ This repository contains code for the runtime benchmarking of feature detection,
 
 'results_descriptors.txt': 	SIFT	SURF	BRIEF	BRISK	ORB	FREAK
 
-lalalalalala
